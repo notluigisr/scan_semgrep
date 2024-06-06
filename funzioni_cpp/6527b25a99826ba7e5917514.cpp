@@ -1,0 +1,3 @@
+TEST_P(ProtocolIntegrationTest, MaxStreamDurationWithRetryPolicyWhenRetryUpstreamDisconnection) {
+  testMaxStreamDurationWithRetry(true);
+}

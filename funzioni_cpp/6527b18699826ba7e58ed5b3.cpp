@@ -1,0 +1,1 @@
+    inline bool checkNoWait(int length) { return check(length, 1, false)!=0; }

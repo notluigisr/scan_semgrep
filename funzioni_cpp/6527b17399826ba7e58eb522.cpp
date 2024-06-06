@@ -1,0 +1,1 @@
+static inline void eventpoll_init_file(struct file *file) {}

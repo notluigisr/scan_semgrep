@@ -1,0 +1,1 @@
+  void set_allow_unexpected_disconnects(bool value) { allow_unexpected_disconnects_ = value; }
